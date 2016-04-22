@@ -1,0 +1,5 @@
+1. get compiler working so css can work.
+  a. To compile, run 'scss style.scss style.css'
+  b. You can watch it by 'scss --watch style.scss:style.css'. It will
+     detect .scss changes and compile to .css on the fly
+2. create a form for contacting?
